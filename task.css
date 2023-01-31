@@ -1,0 +1,77 @@
+/* 
+
+ .navlist {
+    position: relative;
+  }
+  
+  .navlist li {
+    margin: 50;
+    padding: 50;
+    list-style: none;
+    position: absolute;
+    top: 60;
+  }
+  
+  .navlist li, .navlist a {
+    height: 44px;
+    display: block;
+  
+  }
+
+.list  {
+margin: 0;
+padding: 0;
+list-style: none;
+position: absolute;
+top: 150;
+}
+
+.navlist :-moz-list-bullet, .navlist a {
+height: 44px;
+display: block;
+}
+
+
+.prev {
+left: 63px;
+width: 43px;
+background: url('C:\Users\Home\Desktop\AMIT\FRONT-END\TASK CSS\imgslogo_02.png') -47px 0;
+}
+
+.next {s
+left: 129px;
+width: 43px;
+background: url('C:\Users\Home\Desktop\AMIT\FRONT-END\TASK CSS\imgslogo_03.png') -91px 0;
+}
+
+
+   .container{
+    width: 100%;
+    height: 500px;
+    background-color: aqua;
+   }   
+
+
+
+
+
+ */
+
+ 
+
+
+
+
+ .container{
+    width: 100%;
+    height: 200px;
+ }
+ 
+.imge{
+    width: 20%;
+    height: 100%;
+    display: inline-block;
+    margin-left: 3%;
+}
+
+
